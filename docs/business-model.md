@@ -44,7 +44,7 @@
   Companies Act Chapter 270 for offshore/IBC entities); plus a Belize
   Tax Service (BTS) tax registration, a SEPARATE act administered by
   the Ministry of Finance's own Revenue & Tax Administration function --
-  see `src/marketentry/facts.cljc` and `src/statute/facts.cljc` for the
+  see `src/marketentry/facts.kotoba` and `src/statute/facts.kotoba` for the
   full citation trail, including the explicit, honest gap on BTS's own
   specific enabling legislation (bts.gov.bz serves its content via a
   client-rendered SPA this iteration could not fetch)
